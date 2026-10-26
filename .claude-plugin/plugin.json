@@ -1,0 +1,12 @@
+{
+  "name": "arabic-motion-forge",
+  "displayName": "Arabic Motion Forge",
+  "version": "3.0.0",
+  "description": "Original Arabic-first motion design: kinetic typography, ads, reels and short films with Arabic-safe shaping, layered choreography, deterministic rendering, QA gates and honest delivery.",
+  "author": { "name": "zoih6", "url": "https://github.com/zoih6" },
+  "homepage": "https://github.com/zoih6/arabic-motion-forge",
+  "repository": "https://github.com/zoih6/arabic-motion-forge",
+  "license": "MIT",
+  "keywords": ["motion-design", "arabic", "typography", "animation", "agent-skills", "video"],
+  "skills": ["./skills/"]
+}

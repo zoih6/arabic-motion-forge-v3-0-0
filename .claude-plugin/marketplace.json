@@ -1,0 +1,14 @@
+{
+  "name": "arabic-motion-forge",
+  "description": "Arabic-first motion-design skills: reframe-to-spec workflow, creative direction, Arabic typography, layered choreography, deterministic rendering and quality gates.",
+  "owner": { "name": "zoih6", "url": "https://github.com/zoih6" },
+  "plugins": [
+    {
+      "name": "arabic-motion-forge",
+      "source": "./",
+      "description": "Instruction-only skill for producing original Arabic motion design end to end: brief, direction, story, layer plan, code, QA, delivery.",
+      "category": "design",
+      "tags": ["motion", "arabic", "typography", "video"]
+    }
+  ]
+}

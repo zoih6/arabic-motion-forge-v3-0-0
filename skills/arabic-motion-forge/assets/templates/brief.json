@@ -1,0 +1,22 @@
+{
+  "id": "<project-id-kebab>",
+  "title": "<human title>",
+  "created": "YYYY-MM-DD",
+  "language": { "copy": "ar", "chat": "ar", "numeral_system": "arabic-indic|western" },
+  "audience": "<who and where>",
+  "message": "<the one sentence the viewer must remember>",
+  "format": { "width": 1080, "height": 1920, "fps": 30, "duration": 27, "frame_count": 810 },
+  "platform": "tiktok-reels|youtube|square|dooh|web",
+  "audio": {
+    "source": "user-voiceover|generated-narration|music-only|silent",
+    "file": "assets/vo.mp3",
+    "map": "audio-map.json",
+    "sync": "voice-locked|beat-locked|none"
+  },
+  "copy_file": "copy.txt",
+  "copy_sha256": "<sha256 of copy.txt>",
+  "approval": { "mode": "user_approved|direct_execution|waived_preview", "evidence": "<one line>" },
+  "deliverable_budget": { "light_mib": 25, "high_mib": 50, "location": "deliverables/" },
+  "publish": { "allowed": false, "destination": null },
+  "assumptions": ["<assumption the user can veto>"]
+}

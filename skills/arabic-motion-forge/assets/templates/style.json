@@ -1,0 +1,34 @@
+{
+  "direction": {
+    "title": "<direction name>",
+    "spine": "<one sentence: shows X by doing Y, refuses Z>",
+    "signature_move": "<the one move repeated through the film>",
+    "refuses": ["<cliché this film avoids>"],
+    "axes": {
+      "story_device": "<option>",
+      "visual_metaphor": "<option>",
+      "material_language": "<option>",
+      "typography_architecture": "<option>",
+      "camera_grammar": "<option>",
+      "rhythm_policy": "<option>",
+      "accent_system": "<option>",
+      "transition_logic": "<option>"
+    }
+  },
+  "palette": { "bg": "#101d35", "ink": "#f3f7ff", "accent": "#d7f85b", "support": ["#245bff", "#70d8ef"] },
+  "type_system": {
+    "display": { "family": "IBM Plex Sans Arabic", "weight": 600, "tracking": "0" },
+    "body": { "family": "IBM Plex Sans Arabic", "weight": 400 },
+    "numeric": { "family": "Space Mono", "weight": 400 },
+    "size_ladder": [96, 64, 40, 28, 20],
+    "broken_rules": ["<the one deliberate break + why>"]
+  },
+  "material_language": "<flat editorial / paper / glass / ink / metal — and what it forbids>",
+  "composition_grammar": "<grid, margins, alignment logic>",
+  "camera_grammar": "<static / slow push / drift — and how often>",
+  "light": { "azimuth": "135deg", "shadows": "single key light, contact shadows derived from silhouette" },
+  "physics": { "seed": 20261025, "spring": { "zeta": 0.75, "omega": 15 } },
+  "motion_blur": { "enabled": false, "samples": 6, "shutter_deg": 180 },
+  "text_unit": "word|line",
+  "originality_note": "Studied: <mechanics learned>. Different here: <the one-sentence distinction>."
+}
